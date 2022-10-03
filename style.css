@@ -1,0 +1,18 @@
+/* Geral */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+#app {
+  display: flex;
+  flex-direction: column;
+}
+.panel {
+  margin: 10px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.15);
+}
